@@ -1,4 +1,4 @@
-from src.bot import LinkFixBot
+from bot import LinkFixBot
 
 bot = LinkFixBot("config.json")
 bot.start()
